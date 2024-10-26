@@ -4,7 +4,7 @@ This project consists of software with the objective of registering users in a M
 
 ## 🚀 Getting Started
 
-To download this software **[Click Here](https://github.com/devsamuca/users-register/archive/refs/heads/main.zip)**.
+To download this software **[Click Here](https://github.com/devsamuca/register-users/archive/refs/heads/main.zip)**.
 
 ### 📋 Requirements
 
