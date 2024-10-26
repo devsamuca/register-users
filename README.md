@@ -34,6 +34,6 @@ To download this software **[Click Here](https://github.com/devsamuca/register-u
 
 ## 📌 Version
 
-We use [SemVer](http://semver.org/) for version control. For available versions, see the [tags in this repository](). 
+We use [SemVer](http://semver.org/) for version control. For available versions, see the [tags in this repository](https://github.com/devsamuca/register-users/tags). 
 
 By Samuel Souza 🌹
